@@ -1,0 +1,6 @@
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-10-ExpenseReportSoftwareFunctions\2015-07-10-ExpenseReportSoftwareFunctions\bin\Debug\2015-07-10-ExpenseReportSoftwareFunctions.exe.config
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-10-ExpenseReportSoftwareFunctions\2015-07-10-ExpenseReportSoftwareFunctions\bin\Debug\2015-07-10-ExpenseReportSoftwareFunctions.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-10-ExpenseReportSoftwareFunctions\2015-07-10-ExpenseReportSoftwareFunctions\bin\Debug\2015-07-10-ExpenseReportSoftwareFunctions.pdb
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-10-ExpenseReportSoftwareFunctions\2015-07-10-ExpenseReportSoftwareFunctions\obj\Debug\2015-07-10-ExpenseReportSoftwareFunctions.csprojResolveAssemblyReference.cache
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-10-ExpenseReportSoftwareFunctions\2015-07-10-ExpenseReportSoftwareFunctions\obj\Debug\2015-07-10-ExpenseReportSoftwareFunctions.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-10-ExpenseReportSoftwareFunctions\2015-07-10-ExpenseReportSoftwareFunctions\obj\Debug\2015-07-10-ExpenseReportSoftwareFunctions.pdb
